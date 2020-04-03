@@ -29,11 +29,9 @@ public class Day3_MaximumSubarray {
 
 		int maxSum = arr[0];
 
-		int i = 1, n = arr.length, sum = arr[0];
-		while (i < n) {
+		for (int i = 1, sum = arr[0]; i < arr.length; i++) {
 			sum = Math.max(sum + arr[i], arr[i]);
 			maxSum = Math.max(maxSum, sum);
-			i++;
 		}
 
 		return maxSum;
@@ -48,7 +46,7 @@ public class Day3_MaximumSubarray {
 		int mid = (low + high) / 2;
 		int maxSum = Math.max(maxSumSubarray(arr, low, mid - 1), maxSumSubarray(arr, mid + 1, high));
 		maxSum = Math.max(maxSum, maxSumSubarrayWithMid(arr, low, high, mid));
-		
+
 		return maxSum;
 	}
 
@@ -57,7 +55,7 @@ public class Day3_MaximumSubarray {
 		int sum = 0;
 
 		int lMaxSum = 0;
-		for (int i = mid-1; i >= low; i--) {
+		for (int i = mid - 1; i >= low; i--) {
 			sum += arr[i];
 			if (sum > lMaxSum)
 				lMaxSum = sum;
@@ -75,7 +73,7 @@ public class Day3_MaximumSubarray {
 
 	public static void main(String[] args) {
 
-		int[] arr = { 1, -1, 1 };
+		int[] arr = { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
 
 		System.out.println("Kadane: Sum of maximum sum subarray is: " + maxSumSubarray(arr));
 		System.out.println("D&C: Sum of maximum sum subarray is: " + maxSumSubarray(arr, 0, arr.length - 1));
