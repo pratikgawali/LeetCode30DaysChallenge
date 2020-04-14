@@ -2,6 +2,7 @@
 
 Along with the responsibility of saving the world by staying at home during the COVID-19 pandemic, I also took up the 30-Day LeetCoding Challenge - a problem will appear at midnight each day, and I'll have 24 hours to solve it.
 
+<br/>
 
 |  Day #  |      Title     |   Solutions  | Tag                   
 |-----|----------------|---------------|-------------
