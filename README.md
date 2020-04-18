@@ -22,4 +22,5 @@ Along with the responsibility of saving the world by staying at home during the 
 |14|[Perform String Shifts](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3299/)|[Solution](../master/Day14_PerformStringShifts.java) |Strings|
 |15|[Product of Array Except Self](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3300/)|[Solution](../master/Day15_ProductOfArrayExceptSelf.java) |Arrays|
 |16|[Valid Parenthesis String](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3301/)|[Solution](../master/Day16_ValidParenthesisString.java) |Greedy, Backtracking|
-|17|[Number of islands](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3302/)|[Solution](../master/Day17_NumberOfIslands.java) |BFS|
+|17|[Number of islands](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3302/)|[Solution](../master/Day17_NumberOfIslands.java) |DFS|
+|18|[Minimum path sum](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3303/)|[Solution](../master/Day18_MinimumPathSum.java) |Dynamic programming|
