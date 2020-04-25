@@ -30,3 +30,4 @@ Along with the responsibility of saving the world by staying at home during the 
 |22|[Subarray sum equals K](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3307/)|[Solution](../master/Day22_SubarraySumEqualsK.java) |Arrays, Prefix sum|
 |23|[Bitwise AND of numbers in a range](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3308/)|[Solution](../master/Day23_BitwiseANDofNumbersRange.java) |Bitwise AND|
 |24|[LRU cache](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3309/)|[Solution](../master/Day24_LRU_Cache.java) |HashMap, LinkedList|
+|25|[Jump game](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3310/)|[Solution](../master/Day25_JumpGame.java) |Dynamic programming|
