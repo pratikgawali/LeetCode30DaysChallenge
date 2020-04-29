@@ -2,18 +2,19 @@
 ---------------------------------------------------------------------------
 Question
 ---------------------------------------------------------------------------
-Given two strings text1 and text2, return the length of their longest 
-common subsequence.
+Given a 2D binary matrix filled with 0's and 1's, find the largest square 
+containing only 1's and return its area.
 
-A subsequence of a string is a new string generated from the original 
-string with some characters(can be none) deleted without changing the 
-relative order of the remaining characters. (eg, "ace" is a subsequence 
-of "abcde" while "aec" is not). A common subsequence of two strings is a 
-subsequence that is common to both strings.
+Example:
 
- 
+Input: 
 
-If there is no common subsequence, return 0.
+1 0 1 0 0
+1 0 1 1 1
+1 1 1 1 1
+1 0 0 1 0
+
+Output: 4
 ---------------------------------------------------------------------------
 */
 package leetcode.challenge;
