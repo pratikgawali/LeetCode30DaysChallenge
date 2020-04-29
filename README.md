@@ -34,3 +34,4 @@ Along with the responsibility of saving the world by staying at home during the 
 |26|[Longest common subsequence](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3311/)|[Solution](../master/Day26_LongestCommonSubsequence.java) |Dynamic programming|
 |27|[Maximal square](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3312/)|[Solution](../master/Day27_MaximalSquare.java) |Dynamic programming|
 |28|[First unique number](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3313/)|[Solution](../master/Day28_FirstUniqueNumber.java) |Linked hash set|
+|29|[Binary tree max path sum](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3314/)|[Solution](../master/Day29_BinaryTreeMaxPathSum.java) |Binary tree|
