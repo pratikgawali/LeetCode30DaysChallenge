@@ -33,3 +33,4 @@ Along with the responsibility of saving the world by staying at home during the 
 |25|[Jump game](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3310/)|[Solution](../master/Day25_JumpGame.java) |Greedy|
 |26|[Longest common subsequence](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3311/)|[Solution](../master/Day26_LongestCommonSubsequence.java) |Dynamic programming|
 |27|[Maximal square](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3312/)|[Solution](../master/Day27_MaximalSquare.java) |Dynamic programming|
+|28|[First unique number](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3313/)|[Solution](../master/Day28_FirstUniqueNumber.java) |Dynamic programming|
